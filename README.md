@@ -1,16 +1,18 @@
-## Hi there 👋
+Welcome to the profile of a developer with a passion for continuous learning and a dream of growing into a security expert. I love exploring new technologies and enhancing my skills every day. Welcome to my journey! :)
 
-<!--
-**annabitexo/annabitexo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+----------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- Laravel MPA
+- C# OOP
+- C++
+- Python
+- MySQL & Databases
+- HTML & CSS
+- JavaScript
+- PHP (PhpMyAdmin)
+- Lua
+
+----------------------------------------
