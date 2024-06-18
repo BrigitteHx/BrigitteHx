@@ -1,5 +1,4 @@
 Welcome to the profile of a developer with a passion for continuous learning and a dream of growing into cyber security. I love exploring new technologies and enhancing my skills every day. Join me on my journey! :)
-
 <br>
 
 ----------------------------------------
