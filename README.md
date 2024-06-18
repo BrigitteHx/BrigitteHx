@@ -17,7 +17,6 @@ Welcome to the profile of a developer with a passion for continuous learning and
 ----------------------------------------
 
 <sub> 
-Any questions? Not all my repo's are public, but don't be scared to hit me up! 
-> "annabitexo" on discord
+( Not all my repo's are public :) ) 
 </sub>
 
