@@ -17,6 +17,6 @@ Welcome to the profile of a developer with a passion for continuous learning and
 ----------------------------------------
 
 <sub> 
-( Not all my repo's are public :) ) 
+( Not all my repo's are public ) 
 </sub>
 
