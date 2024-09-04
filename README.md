@@ -1,7 +1,7 @@
 <sub>
 Worked with Laravel MPA, C# OOP, C++, Python, MySQL & databases, HTML & CSS, JavaScript, PHP (PhpMyAdmin) en Lua
-</sub>
 
-<sub>
+<!-- Lege regel hierboven -->
+
 ( Not all my repo's are public :) ) 
 </sub>
