@@ -1,8 +1,8 @@
 <sub>
 Worked with Laravel MPA, C# OOP, C++, Python, MySQL & databases, HTML & CSS, JavaScript, PHP (PhpMyAdmin) en Lua
 
-<!-- x -->
-<!-- x -->
+<br>
 
-( Not all my repo's are public :) ) 
+( Not all my repo's are public :) )
+
 </sub>
