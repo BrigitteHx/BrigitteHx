@@ -1,5 +1,5 @@
 <sub>
-Worked with Laravel & React MPA, C# OOP, C++, Python, MySQL & databases, HTML & CSS, JavaScript, PHP (PhpMyAdmin) en Lua
+Worked with Laravel & React MPA, C# (OOP), .NET 7 & 8 API, C++, Python, MySQL & databases, HTML & CSS, JavaScript, PHP (PhpMyAdmin) en Lua
 
 <br>
 <br>
