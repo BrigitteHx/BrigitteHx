@@ -90,9 +90,9 @@ Azure DevOps • CI/CD pipelines • Pull requests • Git branching strategies
 
 ## ☆ Let’s Connect!
 
-Feel free to connect via [LinkedIn](www.linkedin.com/in/brigitteheijkoop) or check out my latest work here on GitHub!  
+Feel free to connect through my profile or check out my latest work here on GitHub!  
 Always open to networking, collaboration or a good tech conversation!
 
-<sub><i>Please note: A LinkedIn account is required to view my full profile.</i></sub>
+<sub><i>Please note: A LinkedIn account is required to view my full LinkedIn profile.</i></sub>
 
 ---
