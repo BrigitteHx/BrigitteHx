@@ -12,73 +12,53 @@ I'm eager to grow within the world of IT and enjoy collaborating on meaningful a
 ## ☆ Tech Stack & Tools:
 
 ### ✭ Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+
+C# • Python • JavaScript • PHP • C++ • HTML • CSS • TypeScript 
 
 ---
 
 ### ✭ Frameworks & Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" />     (.NET Core - Minimal API) 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-
-Refit • Entity Framework • FluentValidation • WireMock 
+.NET Core (Minimal API) • React • NodeJS • AngularJS • Bootstrap • Refit • Entity Framework • FluentValidation • WireMock 
 
 ---
 
 ### ✭ Databases & Data Handling
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />&nbsp;
 
 MySQL • Entity Framework Core • JSON • phpMyAdmin
 
 ---
 
 ### ✭ Security & Privacy
-- Data minimization (privacy by design)
-- Government-grade security principles
-- Custom error handling & logging with meaningful HTTP status codes (422, 404, 500)
+
+Data minimization (privacy by design) • Government-grade security principles • Custom error handling & logging with meaningful HTTP status codes (422, 404, 500)
 
 ---
 
 ### ✭ DevOps & Collaboration
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" />
 
-Azure DevOps • CI/CD pipelines • Pull requests • Git branching strategies
+Git • GitHub • GitLab • Git branching strategies • Azure DevOps • CI/CD pipelines • Pull requests 
 
 ---
 
 ### ✭ Testing & Documentation
-- Integration Testing with WireMock & Swagger
-- Swagger/OpenAPI for endpoint testing and documentation
-- AAA (Arrange, Act, Assert) testing strategy
+
+Integration Testing with WireMock & Swagger • Swagger/OpenAPI for endpoint testing and documentation • AAA (Arrange, Act, Assert) testing strategy
 
 ---
 
 ### ✭ Methodologies & Soft Skills
-- Agile & Scrum (incl. Scrum Master role)
-- Sprint planning, retrospectives, team facilitation
-- Collaboration tools: MS Teams • Skype for Business • SAP • Confluence
+
+Agile & Scrum (incl. Scrum Master role) • Sprint planning, retrospectives, team facilitation • Collaboration tools: MS Teams • Skype for Business • SAP • Confluence
 
 ---
 
 ## ✭ Extra Courses & Certifications
 
-- **Udemy** – Laravel (Beginner & Intermediate)
-- **Udemy** – ASP.NET Core Minimal API Development
-- **Udemy** – C# Fundamentals & OOP
-- Internal sessions – GitLab, Sigrid (software quality analysis)
+• Udemy – Laravel (Beginner & Intermediate)
+• Udemy – ASP.NET Core Minimal API Development
+• Udemy – C# Fundamentals & OOP
+• Internal sessions – GitLab, Sigrid (software quality analysis)
 
 ---
 
