@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub!
+# Welcome to my GitHub!
 
 Hi there! I'm **Brigitte**, a passionate and detail-oriented software developer from the Netherlands 🇳🇱.
 
@@ -29,12 +29,6 @@ MySQL • Entity Framework Core • JSON • phpMyAdmin
 
 ---
 
-### ✭ Security & Privacy
-
-Data minimization (privacy by design) • Government-grade security principles • Custom error handling & logging with meaningful HTTP status codes (422, 404, 500)
-
----
-
 ### ✭ DevOps & Collaboration
 
 Git • GitHub • GitLab • Git branching strategies • Azure DevOps • CI/CD pipelines • Pull requests 
@@ -47,21 +41,6 @@ Integration Testing with WireMock & Swagger • Swagger/OpenAPI for endpoint tes
 
 ---
 
-### ✭ Methodologies & Soft Skills
-
-Agile & Scrum (incl. Scrum Master role) • Sprint planning, retrospectives, team facilitation • Collaboration tools: MS Teams • Skype for Business • SAP • Confluence
-
----
-
-## ✭ Extra Courses & Certifications
-
-• Udemy – Laravel (Beginner & Intermediate)
-• Udemy – ASP.NET Core Minimal API Development
-• Udemy – C# Fundamentals & OOP
-• Internal sessions – GitLab, Sigrid (software quality analysis)
-
----
-
 ## ☆ GitHub Stats
 
 ![Brigitte's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrigitteHx&show_icons=true&theme=default)
@@ -70,7 +49,7 @@ Agile & Scrum (incl. Scrum Master role) • Sprint planning, retrospectives, tea
 
 ## ☆ Let’s Connect!
 
-Feel free to connect through my profile or check out my latest work here on GitHub!  
+Of course this is just the tip of the iceberg, want to know more? Feel free to connect through my profile or check out my latest work here on GitHub!  
 Always open to networking, collaboration or a good tech conversation!
 
 <sub><i>Please note: A LinkedIn account is required to view my full LinkedIn profile.</i></sub>
