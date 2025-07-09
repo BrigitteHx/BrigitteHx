@@ -43,7 +43,6 @@ Integration Testing with WireMock & Swagger • Swagger/OpenAPI for endpoint tes
 
 ## ☆ GitHub Stats
 
-![Brigitte's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrigitteHx&show_icons=true&theme=default)
 
 ---
 
